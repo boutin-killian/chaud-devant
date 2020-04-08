@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "ChaudDevantProject",
+    "slug": "ChaudDevantProject",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.0.0",
+    "orientation": "landscape",
+    "icon": "./assets/images/watermelon.png",
+    "scheme": "myapp",
+    "splash": {
+      "image": "./assets/images/watermelon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "description": ""
+  }
+}
