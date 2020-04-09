@@ -7,7 +7,7 @@ Installer Expo sur téléphone
 - cd server && node app.js
 
 Ouvrir une cmd et faire "ngrok http 3000". Copier le lien "https" créé 
-et le coller dans HomeScreen.js dans la variable "SocketEndpoint"
+et le coller dans MapScreen.js et dans ParamsScreen.js dans la variable "SocketEndpoint"
 
 - expo start --tunnel
 
@@ -17,7 +17,7 @@ et que le bouton est sur tunnel, le tunnel ne s'est pas créé,
 refaire "expo start --tunnel".
 
 Une fois le tunnel créé en bas à gauche,
-un lien de type :  
+un lien de type :  exp://fq-n52.killianboutin.chauddevantproject.exp.direct:80
 scanner le QR code avec le téléphone et attendre qu'il build.
 Cliquer sur "Run in web browser" et attendre que l'onglet s'ouvre.
 

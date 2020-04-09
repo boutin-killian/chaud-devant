@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "ChaudDevantProject",
-    "slug": "ChaudDevantProject",
+    "name": "ChaudDevant",
+    "slug": "chauddevant",
     "platforms": [
       "ios",
       "android",
